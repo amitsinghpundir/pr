@@ -11,8 +11,12 @@
   "dependencies": {
     "@base-ui/react": "^1.5.0",
     "@phosphor-icons/react": "^2.1.10",
+<<<<<<< HEAD
     "@prisma/adapter-pg": "^7.8.0",
     "@prisma/client": "^7.8.0",
+=======
+    "@tanstack/react-query": "^5.101.0",
+>>>>>>> 2aebd6ec487d89146c39f216e55619cc98bcd203
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "cmdk": "^1.1.1",
