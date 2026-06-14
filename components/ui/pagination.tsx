@@ -1,6 +1,6 @@
 import * as React from "react"
 
-import { cn } from "@/components/ui/lib/utils"
+import { cn } from "@/lib/utils"
 import { Button } from "@/components/ui/ui/button"
 import { CaretLeftIcon, CaretRightIcon, DotsThreeIcon } from "@phosphor-icons/react"
 

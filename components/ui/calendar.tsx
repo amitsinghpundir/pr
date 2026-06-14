@@ -8,7 +8,7 @@ import {
   type Locale,
 } from "react-day-picker"
 
-import { cn } from "@/components/ui/lib/utils"
+import { cn } from "@/lib/utils"
 import { Button, buttonVariants } from "@/components/ui/ui/button"
 import { CaretLeftIcon, CaretRightIcon, CaretDownIcon } from "@phosphor-icons/react"
 
